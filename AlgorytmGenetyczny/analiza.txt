@@ -1,0 +1,14 @@
+MUTACJA:(zwiększanie różnorodności osobników)
+Jeśli mamy do czynienia z mutacją możemy dostać osobnika, którybędzie miał 
+wzmocnioną(zmiana bitu z 0 na 1) bądź osłabioną(zmiana bitu z 1 na 0) cechę.
+Cecha która jest zmieniana jest losowana.
+Ma to swoje następstwa w krzyżowaniu ponieważ rodzic może przekazać wzmocniony/osłabiony gen
+dla swoich dzieci.
+Ogólnie rzecz biorąc jej zadaniem jest wprowadzenie różnorodności do populacji:
+
+
+KRZYŻOWANIE:(łączenie w kombinacji cech z różnych osobników)
+Krzyżowanie polega na połączeniu części poszczególnych genotypów w jeden. 
+Kojarzenie ma sprawić, że potomek dwóch osobników rodzicielskich ma zespół cech, 
+który jest kombinacją ich cech (może się zdarzyć, że tych najlepszych).
+
